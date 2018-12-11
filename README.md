@@ -13,9 +13,9 @@ Store golang-community meetup and resources for newbie started to code go.
 ## Go plugins:
 Plugin may be needed
 
-## Logrus: Logger
-## Viper: configuration
-## Echo: APIs
-## Beego: Web, APIs
-## Gorm: Databases
-## Vim: NERD tree
+- Logrus: Logger
+- Viper: configuration
+- Echo: APIs
+- Beego: Web, APIs
+- Gorm: Databases
+- Vim: NERD tree
