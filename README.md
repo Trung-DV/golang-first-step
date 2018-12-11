@@ -1,6 +1,6 @@
 Go
 ===
-### Golang VietNam github: //github.com/golang-vietnam
+### Golang VietNam github: https://github.com/golang-vietnam
 A repo of golang community in VietNam
 
 ### Go Example: https://github.com/ng-vu/go-grpc-sample
