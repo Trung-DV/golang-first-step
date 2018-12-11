@@ -1,0 +1,5 @@
+# IDEs config
+.idea/
+
+# Library needed for project
+pkg/
